@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://youtu.be/Sn3dYqp3awU?si=JfBspSdz2pj4Rrwa
+
  yazılım oryantasyon vize ödevi
